@@ -1999,7 +1999,7 @@ blockquote {
 }
 
 .form-control-meghna .form-control:focus {
-  border-color: #57cbcc;
+  border-color: #ff6600fe;
   box-shadow: 0 0 0 0.2rem rgba(0, 174, 255, 0.432);
 }
 
