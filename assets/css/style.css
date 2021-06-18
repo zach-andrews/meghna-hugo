@@ -644,12 +644,12 @@ a:hover {
 
 .call-to-action h2 {
   font-weight: 700;
-  color: #444;
+  color: #ff6600fe;
 }
 
 .call-to-action p {
   font-size: 16px;
-  color: #666;
+  color: #e6e6e6ff;
 }
 
 .call-to-action .btn-main {
@@ -663,7 +663,7 @@ a:hover {
   padding: 100px 0;
   background-image: url("../images/call-to-action/call-to-action-bg.jpg");
   background-size: cover;
-  color: #fff;
+  color: #e6e6e6ff;
 }
 
 .call-to-action-2 h2 {
@@ -671,7 +671,7 @@ a:hover {
 }
 
 .call-to-action-2 p {
-  color: #fff;
+  color: #e6e6e6ff;
 }
 
 .call-to-action-2 .btn-main {
@@ -719,8 +719,8 @@ a:hover {
 }
 
 #contact-submit:hover {
-  border-color: #2c9091;
-  background-color: #2c9091;
+  border-color: #e6e6e6ff;
+  background-color: #e6e6e6ff;
 }
 
 .form-meghna ::placeholder {
